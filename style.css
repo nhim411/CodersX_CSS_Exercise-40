@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+ font-family: "Open Sans", sans-serif;
+ overflow-x: hidden;
+ font-size: 16px;
+}
+
+.menu-bar {
+ display: flex;
+ color: #888;
+}
+.menu-module {
+ display: flex;
+ display: row;
+ margin: auto;
+}
+
+.list-module {
+ display: flex;
+ list-style-type: none;
+ padding: 0;
+ margin: auto;
+}
+
+.menu-module a {
+ margin: 0 10px;
+ font-weight: bold;
+}
+
+.menu-module li a {
+ color: #888;
+ text-decoration: none;
+}
+
+.btn {
+ display: block;
+ height: 100%;
+ color: white;
+ background-color: #0d63ffb3;
+ border-radius: 5px;
+ padding: 8px 16px;
+ text-decoration: none;
+}

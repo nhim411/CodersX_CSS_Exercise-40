@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.feature-box {
+	font-family: "Open Sans", sans-serif;
+	color: #666666;
+	padding: 35px;
+	float: left;
+}
+
+.container-feature {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
