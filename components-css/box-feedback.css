@@ -3,6 +3,7 @@
 .box-feedback {
  display: flex;
  font-family: "Open Sans", sans-serif;
+ padding: 0 0 104px;
 }
 
 .box-feedback__content {
@@ -11,6 +12,10 @@
  min-height: 1px;
  padding-right: 15px;
  padding-left: 15px;
+}
+
+.box-feedback__info {
+ align-items: center;
 }
 
 .box-feedback__comment {

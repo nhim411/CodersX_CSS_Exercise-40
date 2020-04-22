@@ -4,12 +4,13 @@ body {
  font-family: "Open Sans", sans-serif;
  overflow-x: hidden;
  font-size: 16px;
- padding: 0 20%;
+ padding: 0 10%;
 }
 
 .menu-bar {
  display: flex;
  color: #888;
+ margin: 20px 0 0;
 }
 .menu-module {
  display: flex;
@@ -85,4 +86,22 @@ body {
 
 .feature {
  font-size: 20px;
+}
+
+.footer {
+ color: #666666;
+ padding: 0px 0px 104px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.contact,
+.type--fine-print {
+ text-align: center;
+}
+.contact a {
+ text-decoration: none;
+ color: #666666;
+ margin: 0 10px;
 }
