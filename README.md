@@ -1,6 +1,7 @@
 # CodersX_CSS_Exercise-40
 
 Clone website [https://coders-x.com/course-2020/](https://coders-x.com/course-2020/)
+Link [https://codersx-course-clone.web.app/](https://codersx-course-clone.web.app/)
 
 ## Installation
 
