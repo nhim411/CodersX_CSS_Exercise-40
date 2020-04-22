@@ -75,6 +75,7 @@ body {
 .lighter-black {
  color: #252525;
  font-weight: lighter;
+ margin: 0 0 26px;
 }
 
 .gray {
@@ -84,8 +85,4 @@ body {
 
 .feature {
  font-size: 20px;
-}
-
-.feature-text h2 {
- margin: 0 0 26px;
 }
